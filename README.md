@@ -1,9 +1,12 @@
 # ΘT | MΓ | ΘΓ
 hi, this is our readme. you can, uh, read it!!!!
 
-our arduino code, basically for a suedo peleton bike
-detects rpm, voltage, current, power, and displays these to an lcd, and puts out a usb A output.
-
+our arduino code, basically a hand cranked generator.
+detects rpm, voltage, current, power, and displays these to an lcd,as well as powering 3 USB-A outputs.  
+  
+![full build overview](images/full-build.png)
+![arduino wiring](images/arduino-closeup.png)
+![lcd and usb outputs](images/lcd-and-output.png)
 
 =＾● ⋏ ●＾=  
 ty amir for helping us set up the github <3
